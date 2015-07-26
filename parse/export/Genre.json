@@ -1,0 +1,38 @@
+{ "results": [
+	{
+        "createdAt": "2015-07-14T10:22:53.341Z",
+        "name": "Action",
+        "objectId": "PdUsEx8vRd",
+        "updatedAt": "2015-07-14T10:22:53.341Z"
+    },
+	{
+        "createdAt": "2015-07-14T10:22:58.304Z",
+        "name": "RPG",
+        "objectId": "2cBO5jsPCc",
+        "updatedAt": "2015-07-14T10:22:58.304Z"
+    },
+	{
+        "createdAt": "2015-07-14T10:23:03.093Z",
+        "name": "FPS",
+        "objectId": "QcLZwPNjYz",
+        "updatedAt": "2015-07-14T10:23:03.093Z"
+    },
+	{
+        "createdAt": "2015-07-14T10:27:24.704Z",
+        "name": "Racing",
+        "objectId": "0KUO9SGZX6",
+        "updatedAt": "2015-07-14T10:27:24.704Z"
+    },
+	{
+        "createdAt": "2015-07-14T10:28:19.571Z",
+        "name": "RTS",
+        "objectId": "brAKiJENen",
+        "updatedAt": "2015-07-14T10:28:19.571Z"
+    },
+	{
+        "createdAt": "2015-07-14T10:28:40.136Z",
+        "name": "Adventure",
+        "objectId": "UIkogNclaW",
+        "updatedAt": "2015-07-14T10:28:40.136Z"
+    }
+] }

@@ -1,0 +1,12 @@
+".container": {
+	backgroundColor : 'white'
+}
+
+"#gamesTable" : {
+	separatorColor : '#747474'
+}
+
+".gameRow" : {
+	width : Ti.UI.FILL,
+	height : 112
+}

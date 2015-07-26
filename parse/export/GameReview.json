@@ -1,0 +1,53 @@
+{ "results": [
+	{
+        "createdAt": "2015-07-26T19:58:28.351Z",
+        "editorChoice": true,
+        "gameId": {
+            "__type": "Pointer",
+            "className": "Game",
+            "objectId": "YpMcNZXJB4"
+        },
+        "objectId": "VBkCLMitQF",
+        "platformId": {
+            "__type": "Pointer",
+            "className": "Platform",
+            "objectId": "HXgsE7NIsY"
+        },
+        "score": 9.3,
+        "updatedAt": "2015-07-26T19:59:57.592Z"
+    },
+	{
+        "createdAt": "2015-07-26T19:58:26.287Z",
+        "editorChoice": true,
+        "gameId": {
+            "__type": "Pointer",
+            "className": "Game",
+            "objectId": "YpMcNZXJB4"
+        },
+        "objectId": "iGsfledve2",
+        "platformId": {
+            "__type": "Pointer",
+            "className": "Platform",
+            "objectId": "xO0FRcsC29"
+        },
+        "score": 9.3,
+        "updatedAt": "2015-07-26T19:59:58.460Z"
+    },
+	{
+        "createdAt": "2015-07-26T19:58:20.001Z",
+        "editorChoice": true,
+        "gameId": {
+            "__type": "Pointer",
+            "className": "Game",
+            "objectId": "YpMcNZXJB4"
+        },
+        "objectId": "K1eHYtU4ed",
+        "platformId": {
+            "__type": "Pointer",
+            "className": "Platform",
+            "objectId": "NMFv0lBwd0"
+        },
+        "score": 8.9,
+        "updatedAt": "2015-07-26T20:03:04.031Z"
+    }
+] }

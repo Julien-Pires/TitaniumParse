@@ -1,0 +1,17 @@
+<Alloy autoStyle="true">
+	<View id="gameInfoContainer" layout="horizontal">
+		<ImageView id="gameCover"></ImageView>
+		<View id="gameInfoView" layout="vertical">
+			<Label id="gameTitle"></Label>
+			<View class="gameInfoInnerView" layout="horizontal">
+				<Label class="smallFont smallTitle" text="Released Date : "></Label>
+				<Label id="gameReleased" class="smallFont smallText"></Label>
+			</View>
+			<View class="gameInfoInnerView" layout="horizontal">
+				<Label class="smallFont smallTitle" text="Genre(s) : "></Label>
+				<Label id="gameGenres" class="smallFont smallText"></Label>
+			</View>
+			<View id="gamePlatforms" class="gameInfoInnerView" layout="horizontal"></View>
+		</View>
+	</View>
+</Alloy>

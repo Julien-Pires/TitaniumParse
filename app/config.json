@@ -1,0 +1,19 @@
+{
+    "global": {
+        "parseOptions": {
+            "facebookAppId": "",
+            "applicationId": "",
+            "javascriptkey": ""
+        }
+    },
+    "env:development": {},
+    "env:test": {},
+    "env:production": {},
+    "os:android": {},
+    "os:ios": {},
+    "os:mobileweb": {},
+    "os:windows": {},
+    "dependencies": {
+        "gameInfoView": "1.0"
+    }
+}

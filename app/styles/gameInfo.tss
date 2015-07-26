@@ -1,0 +1,154 @@
+".container": {
+	backgroundColor : 'white'
+}
+
+"#topBackground" : {
+	width : Ti.UI.FILL,
+	height : 240,
+	top : 0,
+	left : 0,
+	backgroundColor : '#747474'	
+}
+
+"#topBackgroundImage" : {
+	width : Ti.UI.FILL,
+	height : Ti.UI.FILL	
+}
+
+"#gameTitleWrapper" : {
+	height : 74,
+	bottom : 0,
+	left : 0
+}
+
+"#gameTitleBackground" : {
+	height : Ti.UI.FILL,
+	backgroundColor : 'black',
+	opacity : 0.84
+}
+
+"#gameTitle" : {
+	top : 12,
+	color : 'white',
+	font : {
+		fontSize : 22,
+		fontWeight : 'bold'
+	}
+}
+
+"#gameInfoContainer" : {
+	width : Ti.UI.FILL,
+	height : 102
+}
+
+"#gameDetailBlock" : {
+	visible : false
+}
+
+"#descriptionBlock" : {
+	height : Ti.UI.SIZE
+}
+
+"#gameDescription" : {
+	top : 8,
+	left : 16,
+	right : 16,
+	color : 'black',
+	textAlign : Ti.UI.TEXT_ALIGNMENT_LEFT,
+	font : {
+		fontSize : 11
+	}
+}
+
+"#ratingBlock" : {
+	height : Ti.UI.SIZE
+}
+
+"#gamesRatingWrapper" : {
+	width : '92%',
+	height : Ti.UI.SIZE,
+	top : 8
+}
+
+"#gamesRating" : {
+	width : Ti.UI.SIZE,
+	height : Ti.UI.SIZE
+}
+
+".gameRatingImage" : {
+	width : 52,
+	height : 65,
+	top : 6,
+	bottom : 8
+}
+
+".nextGameRatingImage" : {
+	left : 18
+}
+
+"#imageGallery" : {
+	height : Ti.UI.SIZE,
+	bottom : 8
+}
+
+"#imageGalleryTitle" : {
+	height : Ti.UI.SIZE
+}
+
+"#imageGalleryScroll" : {
+	height : Ti.UI.SIZE,
+	top : 2,
+	scrollType : 'horizontal',
+	horizontalWrap : false
+}
+
+".gameGalleryImage" : {
+	width : 186,
+	height : 105,
+	left : 12
+}
+
+".firstGameGalleryImage" : {
+	left : 16,
+}
+
+".lastGameGalleryImage" : {
+	right : 16,
+}
+
+".blockSeparator" : {
+	width : '92%',
+	height : 0.5,
+	top : 16,
+	bottom : 6
+}
+
+".blockTitle" : {
+	left : 16,
+	font : {
+		fontSize : 16,
+		fontWeight : 'bold'
+	}
+}
+
+".blockSubTitle" : {
+	left : 4,
+	top : 6,
+	font : {
+		fontSize : 10
+	}
+}
+
+".titleWrapper" : {
+	width : Ti.UI.FILL,
+	height : Ti.UI.SIZE
+}
+
+".rightLink" : {
+	top : 8,
+	right : 16,
+	font : {
+		fontSize : 11,
+		fontWeight : 'bold'
+	}
+}

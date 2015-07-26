@@ -1,0 +1,147 @@
+{ "results": [
+	{
+        "backgroundImage": {
+            "__type": "File",
+            "name": "tfss-501b64ca-dba3-48cb-b3fe-4cdb1de055fd-mario_kart_8_background.png",
+            "url": "http://files.parsetfss.com/f0229f13-019c-4e37-94f7-7a0f56318b62/tfss-501b64ca-dba3-48cb-b3fe-4cdb1de055fd-mario_kart_8_background.png"
+        },
+        "createdAt": "2015-07-19T23:59:15.917Z",
+        "gameId": {
+            "__type": "Pointer",
+            "className": "Game",
+            "objectId": "mv35XMlY4I"
+        },
+        "objectId": "XL8xC052n9",
+        "updatedAt": "2015-07-19T23:59:33.375Z"
+    },
+	{
+        "backgroundImage": {
+            "__type": "File",
+            "name": "tfss-cd60cf1d-7789-400f-9ec2-0ae9d4c5460b-mass_effect_background.png",
+            "url": "http://files.parsetfss.com/f0229f13-019c-4e37-94f7-7a0f56318b62/tfss-cd60cf1d-7789-400f-9ec2-0ae9d4c5460b-mass_effect_background.png"
+        },
+        "createdAt": "2015-07-19T21:07:08.059Z",
+        "description": "Set 200 years in the future in an epic universe, Mass Effect places gamers in a vast galactic community in danger of being conquered by a legendary agent gone rogue. A spectacular new vision from legendary developers BioWare, Mass Effect challenges players to lead a squad of freedom fighters as they struggle against threatening armies to restore peace in the land.",
+        "gameId": {
+            "__type": "Pointer",
+            "className": "Game",
+            "objectId": "9rMDyi1eEa"
+        },
+        "objectId": "snXKq0L7Tv",
+        "updatedAt": "2015-07-25T09:03:38.046Z"
+    },
+	{
+        "backgroundImage": {
+            "__type": "File",
+            "name": "tfss-02c4073a-94d7-4a62-a04d-f40891476893-mass_effect_2_background.png",
+            "url": "http://files.parsetfss.com/f0229f13-019c-4e37-94f7-7a0f56318b62/tfss-02c4073a-94d7-4a62-a04d-f40891476893-mass_effect_2_background.png"
+        },
+        "createdAt": "2015-07-19T23:45:29.110Z",
+        "description": "Once again stepping into the role of the heroic Commander Shepard, gamers command their crew on a suicide mission in space. Players must assemble their squad from amongst the galaxy's most powerful mystics, geniuses, and convicts and lead them on a suicide mission to discover why humans are vanishing from the galaxy. The success of the mission hinges on the squad recruited and their loyalty to the mission. Shepard's future depends on it.",
+        "gameId": {
+            "__type": "Pointer",
+            "className": "Game",
+            "objectId": "g6Ojug3DzN"
+        },
+        "objectId": "BiHbEhYVKe",
+        "updatedAt": "2015-07-25T09:04:08.213Z"
+    },
+	{
+        "backgroundImage": {
+            "__type": "File",
+            "name": "tfss-3147f240-a69c-4330-a152-f2f9dc2269e0-mass_effect_3_background.png",
+            "url": "http://files.parsetfss.com/f0229f13-019c-4e37-94f7-7a0f56318b62/tfss-3147f240-a69c-4330-a152-f2f9dc2269e0-mass_effect_3_background.png"
+        },
+        "createdAt": "2015-07-19T23:50:25.053Z",
+        "description": "In Mass Effect 3, an ancient alien race known only as Reapers, has launched an all-out invasion of the galaxy, leaving nothing but a trail of destruction in their wake. Earth has been taken, the galaxy is on the verge of total annihilation, and you are the only one who can stop them. The price of failure is extinction. You, as Commander Shepard, must lead the counter assault to take it back. Only you can determine how events will play out, which planets you will save from annihilation and which alliances you will form or abandon as you rally the forces of the galaxy to eliminate the Reaper threat once and for all.",
+        "gameId": {
+            "__type": "Pointer",
+            "className": "Game",
+            "objectId": "YpMcNZXJB4"
+        },
+        "objectId": "545Z8XXxQs",
+        "ratings": [
+            {
+                "__type": "Pointer",
+                "className": "GameRating",
+                "objectId": "NvhQfEa3EI"
+            },
+            {
+                "__type": "Pointer",
+                "className": "GameRating",
+                "objectId": "z2X5A1ufAn"
+            },
+            {
+                "__type": "Pointer",
+                "className": "GameRating",
+                "objectId": "tQ5aZamA4k"
+            }
+        ],
+        "updatedAt": "2015-07-25T20:47:24.107Z"
+    },
+	{
+        "backgroundImage": {
+            "__type": "File",
+            "name": "tfss-caeeaf7e-4ddf-4771-ac51-0defcf5752ca-assassin_creed_unity_background.png",
+            "url": "http://files.parsetfss.com/f0229f13-019c-4e37-94f7-7a0f56318b62/tfss-caeeaf7e-4ddf-4771-ac51-0defcf5752ca-assassin_creed_unity_background.png"
+        },
+        "createdAt": "2015-07-20T00:01:49.788Z",
+        "description": "Set in a once-magnificent Paris, Assassin’s Creed Unity plunges into the terror of the 1789 French Revolution and features the most dense and immersive Assassin’s Creed city ever created. Through the streets of Paris, the starving inhabitants are set to take up arms for freedom and equality. In this time of chaos and brutality, a young man named Arno, wounded by the loss of those he loved, sets on a deadly path of redemption. Arno’s pursuit throws him into the middle of a ruthless struggle for the fate of a nation, and transforms him into a true Master Assassin.",
+        "gameId": {
+            "__type": "Pointer",
+            "className": "Game",
+            "objectId": "okiWiVznqS"
+        },
+        "objectId": "Ewdf1ocp3D",
+        "ratings": [
+            {
+                "__type": "Pointer",
+                "className": "GameRating",
+                "objectId": "NvhQfEa3EI"
+            },
+            {
+                "__type": "Pointer",
+                "className": "GameRating",
+                "objectId": "z2X5A1ufAn"
+            },
+            {
+                "__type": "Pointer",
+                "className": "GameRating",
+                "objectId": "ptGUN9mdG3"
+            }
+        ],
+        "updatedAt": "2015-07-26T19:39:27.029Z"
+    },
+	{
+        "backgroundImage": {
+            "__type": "File",
+            "name": "tfss-35a4a79d-05f6-45be-995b-2dbccc1e6bd6-uncharted_golden_abyss_background.png",
+            "url": "http://files.parsetfss.com/f0229f13-019c-4e37-94f7-7a0f56318b62/tfss-35a4a79d-05f6-45be-995b-2dbccc1e6bd6-uncharted_golden_abyss_background.png"
+        },
+        "createdAt": "2015-07-19T23:52:40.831Z",
+        "gameId": {
+            "__type": "Pointer",
+            "className": "Game",
+            "objectId": "icNZ9eDR0W"
+        },
+        "objectId": "veLMLfohKy",
+        "ratings": [
+            {
+                "__type": "Pointer",
+                "className": "GameRating",
+                "objectId": "MDKb8lRa4i"
+            },
+            {
+                "__type": "Pointer",
+                "className": "GameRating",
+                "objectId": "fKFE2wVPUq"
+            },
+            {
+                "__type": "Pointer",
+                "className": "GameRating",
+                "objectId": "84OhOpBq4l"
+            }
+        ],
+        "updatedAt": "2015-07-26T19:40:52.723Z"
+    }
+] }

@@ -1,0 +1,91 @@
+{ "results": [
+	{
+        "createdAt": "2015-07-05T17:48:32.546Z",
+        "manufacturer": "Nintendo",
+        "name": "Wii",
+        "objectId": "5aF1o3hGZg",
+        "shortName": "Wii",
+        "updatedAt": "2015-07-05T17:48:37.983Z"
+    },
+	{
+        "createdAt": "2015-07-05T22:34:10.791Z",
+        "manufacturer": "Nintendo",
+        "name": "3DS",
+        "objectId": "xpnaZMs3x6",
+        "shortName": "3DS",
+        "updatedAt": "2015-07-05T22:34:16.363Z"
+    },
+	{
+        "color": "#0066FF",
+        "createdAt": "2015-07-05T17:48:13.101Z",
+        "manufacturer": "Sony",
+        "name": "Playstation 4",
+        "objectId": "1pfOC0ihr0",
+        "shortName": "PS4",
+        "updatedAt": "2015-07-14T21:37:32.826Z"
+    },
+	{
+        "color": "#117d10",
+        "createdAt": "2015-07-05T17:48:43.099Z",
+        "manufacturer": "Microsoft",
+        "name": "Xbox One",
+        "objectId": "21ykIFAnEJ",
+        "shortName": "One",
+        "updatedAt": "2015-07-14T21:37:42.594Z"
+    },
+	{
+        "color": "#5910ab",
+        "createdAt": "2015-06-30T22:49:04.576Z",
+        "manufacturer": "Nintendo",
+        "name": "Wii U",
+        "objectId": "3NH0PA8JMm",
+        "shortName": "Wii U",
+        "updatedAt": "2015-07-14T21:38:30.348Z"
+    },
+	{
+        "color": "#3366CC",
+        "createdAt": "2015-07-14T21:31:24.658Z",
+        "manufacturer": "Sony",
+        "name": "PS Vita",
+        "objectId": "gYlsG463zP",
+        "shortName": "Vita",
+        "updatedAt": "2015-07-14T21:38:51.780Z"
+    },
+	{
+        "color": "#444444",
+        "createdAt": "2015-07-14T22:07:39.618Z",
+        "manufacturer": "PC",
+        "name": "PC",
+        "objectId": "NMFv0lBwd0",
+        "shortName": "PC",
+        "updatedAt": "2015-07-14T22:08:01.686Z"
+    },
+	{
+        "color": "#000099",
+        "createdAt": "2015-06-28T22:06:41.969Z",
+        "manufacturer": "Sony",
+        "name": "Playstation 3",
+        "objectId": "HXgsE7NIsY",
+        "reviewIcon": {
+            "__type": "File",
+            "name": "tfss-e12df03b-4fcc-46f8-97e7-6feb9b2dc08e-ps3_review.png",
+            "url": "http://files.parsetfss.com/f0229f13-019c-4e37-94f7-7a0f56318b62/tfss-e12df03b-4fcc-46f8-97e7-6feb9b2dc08e-ps3_review.png"
+        },
+        "shortName": "PS3",
+        "updatedAt": "2015-07-26T20:54:51.436Z"
+    },
+	{
+        "color": "#8ac501",
+        "createdAt": "2015-06-28T22:20:12.397Z",
+        "manufacturer": "Microsoft",
+        "name": "Xbox 360",
+        "objectId": "xO0FRcsC29",
+        "reviewIcon": {
+            "__type": "File",
+            "name": "tfss-9a56b15a-9fc6-488b-93ce-5418528c6fe1-xbox360_review.png",
+            "url": "http://files.parsetfss.com/f0229f13-019c-4e37-94f7-7a0f56318b62/tfss-9a56b15a-9fc6-488b-93ce-5418528c6fe1-xbox360_review.png"
+        },
+        "shortName": "360",
+        "updatedAt": "2015-07-26T20:54:59.184Z"
+    }
+] }

@@ -1,0 +1,68 @@
+"#gameInfoContainer" : {
+	width : Ti.UI.SIZE
+}
+
+"#gameInfoView" : {
+	top : 8,
+	left : 16,
+	width : Ti.UI.FILL
+}
+
+".gameInfoInnerView" : {
+	height : Ti.UI.SIZE
+}
+
+"#gameCover" : {
+	width : 64,
+	height : 88,
+	top : 7,
+	left : 12,
+	backgroundColor : '#747474'
+}
+
+"#gameTitle" : {
+	left : 0,
+	color : 'black',
+	textAlign : Ti.UI.TEXT_ALIGNMENT_LEFT,
+	font : {
+		fontWeight : 'bold'
+	}
+}
+
+".gameRowPlatformBackground" : {
+	width : Ti.UI.SIZE,
+	height : Ti.UI.SIZE,
+	top : 6,
+	backgroundColor : '#AAAAAA',
+	borderRadius: 3
+}
+
+".gameRowNextPlatformBackground" : {
+	left : 6
+}
+
+".gameRowPlatformLabel" : {
+	top : 1,
+	left : 8,
+	right : 8,
+	bottom : 1,
+	color : 'white',
+	font : {
+		fontSize : 10,
+		fontWeight : 'bold'
+	}
+}
+
+".smallFont" : {
+	font : {
+		fontSize : 11
+	}
+}
+
+".smallTitle" : {
+	color : 'black'
+}
+
+".smallText" : {
+	color : '#747474'
+}

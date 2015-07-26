@@ -1,0 +1,281 @@
+{ "results": [
+	{
+        "createdAt": "2015-06-28T22:20:58.809Z",
+        "genres": [
+            {
+                "__type": "Pointer",
+                "className": "Genre",
+                "objectId": "PdUsEx8vRd"
+            }
+        ],
+        "name": "Gears of War",
+        "objectId": "iRRyetO63z",
+        "updatedAt": "2015-07-14T20:21:41.263Z"
+    },
+	{
+        "createdAt": "2015-07-05T22:32:15.411Z",
+        "genres": [
+            {
+                "__type": "Pointer",
+                "className": "Genre",
+                "objectId": "PdUsEx8vRd"
+            },
+            {
+                "__type": "Pointer",
+                "className": "Genre",
+                "objectId": "QcLZwPNjYz"
+            }
+        ],
+        "name": "Splatoon",
+        "objectId": "aXpPe14tAP",
+        "updatedAt": "2015-07-14T20:37:03.208Z"
+    },
+	{
+        "createdAt": "2015-07-05T22:33:47.174Z",
+        "genres": [
+            {
+                "__type": "Pointer",
+                "className": "Genre",
+                "objectId": "2cBO5jsPCc"
+            }
+        ],
+        "name": "Bravely Default",
+        "objectId": "vH93RV8PGL",
+        "updatedAt": "2015-07-14T20:37:28.167Z"
+    },
+	{
+        "cover": {
+            "__type": "File",
+            "name": "tfss-162ed37b-f660-4dc9-af42-9bb9f5e67aa9-uncharted_golden_abyss.png",
+            "url": "http://files.parsetfss.com/f0229f13-019c-4e37-94f7-7a0f56318b62/tfss-162ed37b-f660-4dc9-af42-9bb9f5e67aa9-uncharted_golden_abyss.png"
+        },
+        "createdAt": "2015-07-14T22:00:23.291Z",
+        "genres": [
+            {
+                "__type": "Pointer",
+                "className": "Genre",
+                "objectId": "PdUsEx8vRd"
+            },
+            {
+                "__type": "Pointer",
+                "className": "Genre",
+                "objectId": "UIkogNclaW"
+            }
+        ],
+        "name": "Uncharted : Golden Abyss",
+        "objectId": "icNZ9eDR0W",
+        "platforms": [
+            {
+                "__type": "Pointer",
+                "className": "Platform",
+                "objectId": "gYlsG463zP"
+            }
+        ],
+        "released": {
+            "__type": "Date",
+            "iso": "2012-02-15T00:00:00.000Z"
+        },
+        "updatedAt": "2015-07-14T22:04:26.549Z"
+    },
+	{
+        "cover": {
+            "__type": "File",
+            "name": "tfss-7a2bfb37-4b40-4423-9594-1238aca90945-mario_kart_8.png",
+            "url": "http://files.parsetfss.com/f0229f13-019c-4e37-94f7-7a0f56318b62/tfss-7a2bfb37-4b40-4423-9594-1238aca90945-mario_kart_8.png"
+        },
+        "createdAt": "2015-07-12T16:32:50.051Z",
+        "genres": [
+            {
+                "__type": "Pointer",
+                "className": "Genre",
+                "objectId": "0KUO9SGZX6"
+            }
+        ],
+        "name": "Mario Kart 8",
+        "objectId": "mv35XMlY4I",
+        "platforms": [
+            {
+                "__type": "Pointer",
+                "className": "Platform",
+                "objectId": "3NH0PA8JMm"
+            }
+        ],
+        "released": {
+            "__type": "Date",
+            "iso": "2014-05-30T00:00:00.000Z"
+        },
+        "updatedAt": "2015-07-14T22:05:35.084Z"
+    },
+	{
+        "cover": {
+            "__type": "File",
+            "name": "tfss-7cfb5903-0165-42e4-870d-5d6e23790448-mass_effect.png",
+            "url": "http://files.parsetfss.com/f0229f13-019c-4e37-94f7-7a0f56318b62/tfss-7cfb5903-0165-42e4-870d-5d6e23790448-mass_effect.png"
+        },
+        "createdAt": "2015-06-28T19:48:15.328Z",
+        "genres": [
+            {
+                "__type": "Pointer",
+                "className": "Genre",
+                "objectId": "PdUsEx8vRd"
+            },
+            {
+                "__type": "Pointer",
+                "className": "Genre",
+                "objectId": "2cBO5jsPCc"
+            }
+        ],
+        "name": "Mass Effect",
+        "objectId": "9rMDyi1eEa",
+        "platforms": [
+            {
+                "__type": "Pointer",
+                "className": "Platform",
+                "objectId": "NMFv0lBwd0"
+            },
+            {
+                "__type": "Pointer",
+                "className": "Platform",
+                "objectId": "HXgsE7NIsY"
+            },
+            {
+                "__type": "Pointer",
+                "className": "Platform",
+                "objectId": "xO0FRcsC29"
+            }
+        ],
+        "released": {
+            "__type": "Date",
+            "iso": "2007-11-20T00:00:00.000Z"
+        },
+        "updatedAt": "2015-07-14T22:09:10.155Z"
+    },
+	{
+        "cover": {
+            "__type": "File",
+            "name": "tfss-5a48bf7a-0cdc-4ea1-be63-552736c7c3d8-mass_effect_2.png",
+            "url": "http://files.parsetfss.com/f0229f13-019c-4e37-94f7-7a0f56318b62/tfss-5a48bf7a-0cdc-4ea1-be63-552736c7c3d8-mass_effect_2.png"
+        },
+        "createdAt": "2015-06-28T21:35:50.596Z",
+        "genres": [
+            {
+                "__type": "Pointer",
+                "className": "Genre",
+                "objectId": "PdUsEx8vRd"
+            },
+            {
+                "__type": "Pointer",
+                "className": "Genre",
+                "objectId": "2cBO5jsPCc"
+            }
+        ],
+        "name": "Mass Effect 2",
+        "objectId": "g6Ojug3DzN",
+        "platforms": [
+            {
+                "__type": "Pointer",
+                "className": "Platform",
+                "objectId": "NMFv0lBwd0"
+            },
+            {
+                "__type": "Pointer",
+                "className": "Platform",
+                "objectId": "HXgsE7NIsY"
+            },
+            {
+                "__type": "Pointer",
+                "className": "Platform",
+                "objectId": "xO0FRcsC29"
+            }
+        ],
+        "released": {
+            "__type": "Date",
+            "iso": "2010-01-26T00:00:00.000Z"
+        },
+        "updatedAt": "2015-07-14T22:09:08.726Z"
+    },
+	{
+        "cover": {
+            "__type": "File",
+            "name": "tfss-1ac79a0c-fa28-4de9-86b0-64fc3e2121be-mass_effect_3.png",
+            "url": "http://files.parsetfss.com/f0229f13-019c-4e37-94f7-7a0f56318b62/tfss-1ac79a0c-fa28-4de9-86b0-64fc3e2121be-mass_effect_3.png"
+        },
+        "createdAt": "2015-06-28T21:37:39.654Z",
+        "genres": [
+            {
+                "__type": "Pointer",
+                "className": "Genre",
+                "objectId": "PdUsEx8vRd"
+            },
+            {
+                "__type": "Pointer",
+                "className": "Genre",
+                "objectId": "2cBO5jsPCc"
+            }
+        ],
+        "name": "Mass Effect 3",
+        "objectId": "YpMcNZXJB4",
+        "platforms": [
+            {
+                "__type": "Pointer",
+                "className": "Platform",
+                "objectId": "NMFv0lBwd0"
+            },
+            {
+                "__type": "Pointer",
+                "className": "Platform",
+                "objectId": "HXgsE7NIsY"
+            },
+            {
+                "__type": "Pointer",
+                "className": "Platform",
+                "objectId": "xO0FRcsC29"
+            }
+        ],
+        "updatedAt": "2015-07-14T22:09:02.189Z"
+    },
+	{
+        "cover": {
+            "__type": "File",
+            "name": "tfss-33062475-38fd-4d03-b44e-1aaa5780ea27-assassin_creed_unity.png",
+            "url": "http://files.parsetfss.com/f0229f13-019c-4e37-94f7-7a0f56318b62/tfss-33062475-38fd-4d03-b44e-1aaa5780ea27-assassin_creed_unity.png"
+        },
+        "createdAt": "2015-07-14T22:10:43.501Z",
+        "genres": [
+            {
+                "__type": "Pointer",
+                "className": "Genre",
+                "objectId": "PdUsEx8vRd"
+            },
+            {
+                "__type": "Pointer",
+                "className": "Genre",
+                "objectId": "UIkogNclaW"
+            }
+        ],
+        "name": "Assassin's Creed Unity",
+        "objectId": "okiWiVznqS",
+        "platforms": [
+            {
+                "__type": "Pointer",
+                "className": "Platform",
+                "objectId": "NMFv0lBwd0"
+            },
+            {
+                "__type": "Pointer",
+                "className": "Platform",
+                "objectId": "1pfOC0ihr0"
+            },
+            {
+                "__type": "Pointer",
+                "className": "Platform",
+                "objectId": "21ykIFAnEJ"
+            }
+        ],
+        "released": {
+            "__type": "Date",
+            "iso": "2014-11-11T00:00:00.000Z"
+        },
+        "updatedAt": "2015-07-14T22:12:20.079Z"
+    }
+] }

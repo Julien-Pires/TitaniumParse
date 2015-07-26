@@ -1,0 +1,41 @@
+<Alloy autoStyle="true">
+	<Window class="container">
+		<ScrollView scrollType="vertical">
+			<View layout="vertical">
+				<View id="topBackground">
+					<ImageView id="topBackgroundImage"></ImageView>
+					<View id="gameTitleWrapper">
+						<View id="gameTitleBackground"></View>
+						<Label id="gameTitle"></Label>
+					</View>
+				</View>
+				<View id="gameInfoContainer"></View>
+				<View id="gameDetailBlock" layout="vertical">
+					<View id="descriptionBlock" layout="vertical">
+						<View class="blockSeparator blockSeparatorColor"></View>
+						<Label class="blockTitle titleColor">Summary</Label>
+						<Label id="gameDescription"></Label>
+					</View>
+					<View id="ratingBlock" layout="vertical">
+						<View class="blockSeparator blockSeparatorColor"></View>
+						<Label class="blockTitle titleColor">Rating</Label>
+						<View id="gamesRatingWrapper">
+							<View id="gamesRating" layout="horizontal"></View>
+						</View>
+					</View>
+					<View id="imageGallery" layout="vertical">
+						<View class="blockSeparator blockSeparatorColor"></View>
+						<View id="imageGalleryTitle" layout="horizontal">
+							<Label class="blockTitle titleColor">Image Gallery</Label>
+							<Label id="imageGalleryCount" class="blockSubTitle smallTitleColor"></Label>
+							<View class="titleWrapper">
+								<Label class="rightLink linkColor">VIEW ALL ></Label>
+							</View>
+						</View>
+						<ScrollView id="imageGalleryScroll" layout="horizontal"></ScrollView>
+					</View>
+				</View>
+			</View>
+		</ScrollView>
+	</Window>
+</Alloy>

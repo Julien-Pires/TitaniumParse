@@ -1,0 +1,15 @@
+".blockSeparatorColor" : {
+	backgroundColor : '#747474'
+}
+
+".smallTitleColor" : {
+	color : '#747474'
+}
+
+".titleColor" : {
+	color : '#2c3e50'
+}
+
+".linkColor" : {
+	color : '#2A4897',
+}
